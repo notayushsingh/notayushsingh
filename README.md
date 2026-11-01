@@ -1,8 +1,11 @@
+<p align="center">
+<img src="images/Banner.png" width="100%" />
+</p>
+
 <h1 align="center"> Hey there! 👋 I'm Aayu (notayushsingh) </h1>
 
 <h3 align="center"> Aspiring Developer | Cybersecurity Enthusiast </h3>
 
-Welcome to my GitHub profile!
 
 I'm currently building myself into this platform . I enjoy learning how things work behind the scenes and experimenting with new technologies.
 
